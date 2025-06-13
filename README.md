@@ -12,10 +12,6 @@ A simple AutoHotkey script to automate farming tasks in the Roblox game “Grow 
 | ------------------------------------------- | --------------------------------------------------- | ------------------------------------------------- |
 | ![Event Page](Images/preview/eventPage.png) | ![Cosmetics Page](Images/preview/cosmeticsPage.png) | ![Settings Page](Images/preview/settingsPage.png) |
 
-| Credits                                         |
-| ----------------------------------------------- |
-| ![Credits Page](Images/preview/creditsPage.png) |
-
 ## Prerequisites
 
 * **Running Windows**
